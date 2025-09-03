@@ -1,4 +1,4 @@
-# Preliim_Thesis_Experiments
+# Prelim_Thesis_Experiments
 
 This repository contains the code and data files for the first chapter in my thesis. 
 
