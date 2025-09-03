@@ -1,0 +1,1 @@
+test_34000.txt contains the data for the comparison of the responses of the two FLC3-70 fluxgate magnetometers from Stefan Mayer Instuments with the response of the LEMI133 search coil magnetometer. The transfer function of this instrument is included in this file, alongside the code to replicate the plots.
